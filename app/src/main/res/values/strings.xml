@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationV2</string>
+    <string name="time_reamining">Time Reamining: %d</string>
+    <string name="notification_activity">NotificationView</string>
+</resources>
